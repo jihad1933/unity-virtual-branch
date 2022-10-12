@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 9ce2555bb6664f64aab4d1c936454440
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission.002
+    second: {fileID: 2100000, guid: 527ca3191d086d94b94b9cf0ef25a34e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission.003
+    second: {fileID: 2100000, guid: 00f0fc2d1f1f4c2448be0e6f1c39168b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission.004
+    second: {fileID: 2100000, guid: 0b1376c1a7a0c12499e87be0d9a20c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission.006
+    second: {fileID: 2100000, guid: 263f171bc7b56d340ae8bc6f0775b0a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maple_Bark_2_COLOR
+    second: {fileID: 2100000, guid: 39ff15dc794295449ab2b5cbd8f42948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maple_Bark_2_COLOR.001
+    second: {fileID: 2100000, guid: c9012141d6e98d0469f2fccdd79b1b19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 51b0a5887a34fab4fb9b2b9d8bf4b300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 6ff4651bae970ec439e1d16f23d58408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: 574f4d3885b082d47a71e5459213865f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal White.002
+    second: {fileID: 2100000, guid: ca2b35e277932ad4f905ebd947003ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal White.003
+    second: {fileID: 2100000, guid: 44f9dfba3ea9c8d478155f4e5874eeec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal White.004
+    second: {fileID: 2100000, guid: e6c209506113f7749b56020705ae0b77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal White.006
+    second: {fileID: 2100000, guid: 1f06a15761a2b504382f95ff13d44e23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.003
+    second: {fileID: 2100000, guid: 6064b0017478282468b2d6df99bf7306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Branch
+    second: {fileID: 2100000, guid: 64ca13d9a59b058469dfb44ca3f461ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Branch.001
+    second: {fileID: 2100000, guid: 49ac93a314ba1e341961677cb42e6a48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Branch.004
+    second: {fileID: 2100000, guid: 3ec729c37c5d46c4ab93443576ae2d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Branch.005
+    second: {fileID: 2100000, guid: c75edcc3cbdbebd4e8a8a532dbb0dad1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.001
+    second: {fileID: 2100000, guid: 24380ee7770014d49bea842d23c246f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.002
+    second: {fileID: 2100000, guid: 9356969999a91a94e9069164ca815547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.003
+    second: {fileID: 2100000, guid: 6fcc5bb92473f2b42983405fb5e09c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.004
+    second: {fileID: 2100000, guid: 464c0cbe8edd07f4dbcad92c4922332c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.005
+    second: {fileID: 2100000, guid: 14d893886126cd341aa9fe84c95d12d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.006
+    second: {fileID: 2100000, guid: befaf2ae66fe7e3468bf923f6aeb4b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.007
+    second: {fileID: 2100000, guid: 8694e7422f4c03949802dfb032c57bcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.008
+    second: {fileID: 2100000, guid: 973ffb6eb3c02524990f284a5e244090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.009
+    second: {fileID: 2100000, guid: afea2eb82729ba4438a4c393898bac33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.010
+    second: {fileID: 2100000, guid: fb23877f234b3b3428d31b549f2abb39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.011
+    second: {fileID: 2100000, guid: 8a84c2e6c4f5e674095db80e8ecb36e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.012
+    second: {fileID: 2100000, guid: cfa5adeb285668c4eae07d31014b6cd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.013
+    second: {fileID: 2100000, guid: 3579bf26730d69f4dba4a1e54f29a4d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.014
+    second: {fileID: 2100000, guid: ea469bf2f46f50a4dbab362f5b8f45e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.015
+    second: {fileID: 2100000, guid: 005f2f1095dc3d54e92039c6b882967f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.016
+    second: {fileID: 2100000, guid: e970f3847cd4e8e438d5be002a423c4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.017
+    second: {fileID: 2100000, guid: 34119fd9322ca1240a9f80bd19b4f077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.018
+    second: {fileID: 2100000, guid: 159c9d553c8b97f409ffb81da1142558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.019
+    second: {fileID: 2100000, guid: d067226d5d2bab64cb07675b21fcf798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.020
+    second: {fileID: 2100000, guid: f375a32c2780956468c61b09d0dab0ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.021
+    second: {fileID: 2100000, guid: fde0664917bfe9b49adf1bd523c325c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.022
+    second: {fileID: 2100000, guid: 18487aa7866b5404dbd5714e3dfd7cff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.023
+    second: {fileID: 2100000, guid: 4849395f146cfdf43b0a31a26e6e33a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.024
+    second: {fileID: 2100000, guid: fedd62e3387730242a22ce893430aa37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.025
+    second: {fileID: 2100000, guid: ca60f60af1402b449afe34d446ec33fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.026
+    second: {fileID: 2100000, guid: 258683034f4743746940d623c05958a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.027
+    second: {fileID: 2100000, guid: 37834573e333b4941b217c764d7d09d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.056
+    second: {fileID: 2100000, guid: db5a917e7cf6036449874995fddbbab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.058
+    second: {fileID: 2100000, guid: 3fdbb11e660eb374cb1b89933cc4892b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.059
+    second: {fileID: 2100000, guid: f3c2d22e0c4bafd47badaa6c9bcd0961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.060
+    second: {fileID: 2100000, guid: 3cb475a3ead04eb4dacb26cdc8ce3d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.061
+    second: {fileID: 2100000, guid: 6d8eeae0546969f48a2b6c425ed6413a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.062
+    second: {fileID: 2100000, guid: 1a98181d23c1ff74b970076f5a9f8290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.063
+    second: {fileID: 2100000, guid: 5feb56df9e8468141990d4067c1f2699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.064
+    second: {fileID: 2100000, guid: e841223f5a758ad4ea2a8845468e8ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.065
+    second: {fileID: 2100000, guid: 535a810961752844d9789541ecdf53f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.066
+    second: {fileID: 2100000, guid: 25d3918625187f046859c9915cdcd374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.067
+    second: {fileID: 2100000, guid: cf57e45075057ae49bac0d731fde40e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.068
+    second: {fileID: 2100000, guid: 833092995928e2941832e289f472c55b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.069
+    second: {fileID: 2100000, guid: 7c73c76014797ca4486c9d31f0db39a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.070
+    second: {fileID: 2100000, guid: 4aa32e00d2f65314b85cab5e0472de87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.071
+    second: {fileID: 2100000, guid: 8071a473dc6965649a834e0a6dc36abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.072
+    second: {fileID: 2100000, guid: 59a04ab2babe992498d952c94f9629bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.073
+    second: {fileID: 2100000, guid: ae7996a26ab85d3468e74efd9c440b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.074
+    second: {fileID: 2100000, guid: c5d645e949953ce4d8ac30bde34a5543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.075
+    second: {fileID: 2100000, guid: 6366af0f981fc064da014462b3c783f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.076
+    second: {fileID: 2100000, guid: 01584fb925d1cc2499e8721339f8f549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.077
+    second: {fileID: 2100000, guid: 3aef9aa6a2de91a40a9b2bdfd5183ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.078
+    second: {fileID: 2100000, guid: 927a7011499b44f49b5107e7f8c6929c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.079
+    second: {fileID: 2100000, guid: d9411586294beed4fbfee410032e0dca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.080
+    second: {fileID: 2100000, guid: 0abfdf04bc884d94c86cf894649405b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.081
+    second: {fileID: 2100000, guid: 208b7c996847dbe459e67ad9c0627608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.082
+    second: {fileID: 2100000, guid: 74c29f4163d276d409e50f5262872e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.083
+    second: {fileID: 2100000, guid: 2fc8c0d27552559498e0194e951b1eb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.112
+    second: {fileID: 2100000, guid: 2137b72a550971f43ab9063ef37a7512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.114
+    second: {fileID: 2100000, guid: 4ce3461ec02e41c4f880080d9bf0e35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.115
+    second: {fileID: 2100000, guid: 07ebd679f5ce68442b8ab9e032193a27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.116
+    second: {fileID: 2100000, guid: a937c188ed3f60d4fb6b30d563b0f0be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.117
+    second: {fileID: 2100000, guid: b7a652b213e78fa4081f25e39677adb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.118
+    second: {fileID: 2100000, guid: ed9fa3483c5d68449ab9729775378cbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.119
+    second: {fileID: 2100000, guid: 28b52fa9bbd70df43bc17aa6753b960c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.120
+    second: {fileID: 2100000, guid: ac089a226063794439bc1ea8183d19f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.121
+    second: {fileID: 2100000, guid: 1e429c2100c2bb5438f7b875af8eb040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.122
+    second: {fileID: 2100000, guid: c1b54dcb62636be48a4311c0aea85e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.123
+    second: {fileID: 2100000, guid: a9046a9366c8bcd469513f0c5dbe4948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.124
+    second: {fileID: 2100000, guid: d88a69761ca9b83449ac8274223348f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.125
+    second: {fileID: 2100000, guid: 440523774ec21a64499c6467fa3d2ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.126
+    second: {fileID: 2100000, guid: c882c7edde92fa74a96e22ef2d3456f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.127
+    second: {fileID: 2100000, guid: 1b7b59fcc2224c04187ed30c2298764f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.128
+    second: {fileID: 2100000, guid: 949b8cc8d0884ed4e90c38166f8f69b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.129
+    second: {fileID: 2100000, guid: 186ac38e85cec3a438be6516af7d2043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.130
+    second: {fileID: 2100000, guid: db4c0f28661a5e743adbc1a06021dbe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.131
+    second: {fileID: 2100000, guid: f632a70e0a304b04fb6aed87d110fefb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.132
+    second: {fileID: 2100000, guid: aa728d90235d4d140a1d3afcd66edcd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.133
+    second: {fileID: 2100000, guid: 3d1a8d9e9b4ed3245a47353d3f0f863c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.134
+    second: {fileID: 2100000, guid: dbb6f46f55b727a4f92e438ea78531b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.135
+    second: {fileID: 2100000, guid: bdcebab3844f24845bbb41ac16611cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.136
+    second: {fileID: 2100000, guid: 9649bb992855cc54894ac03a2a6663e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.137
+    second: {fileID: 2100000, guid: e0a0d46b58c8cf84985a3f4255f292d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.138
+    second: {fileID: 2100000, guid: dac0ff7ddef877747911e64d2d0f9a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_mat.139
+    second: {fileID: 2100000, guid: c9b4cfba54e65534788d7035b501e618, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Maple_Bark_2_COLOR
+    second: {fileID: 2800000, guid: cd4629f1d1eb80e4c86b108e6ed4bac1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Maple_Bark_2_NRM
+    second: {fileID: 2800000, guid: 91339f1e11d5fd34db5520b22a99dd74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Maple_Bark_2_SPEC
+    second: {fileID: 2800000, guid: 851ff4ef457589d4786f048ebe5ca46f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: low_poly_grass2
+    second: {fileID: 2800000, guid: 61cc45e5214311142a710c27354d753c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: low_poly_grass_normal
+    second: {fileID: 2800000, guid: 3c50205e87cb9e44da998278864d18d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: low_poly_grass_opacity
+    second: {fileID: 2800000, guid: 1c438c81416aefc4badd3dbe432b060c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: low_poly_grass_specular
+    second: {fileID: 2800000, guid: 935c35073e3c2584fbc6705648f34bf6, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
